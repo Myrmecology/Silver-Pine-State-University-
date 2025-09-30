@@ -70,3 +70,4 @@ Data Persistence
 All student information and course selections are automatically saved to browser localStorage, ensuring your registration persists across page refreshes and browser sessions.
 
 
+Happy coding 

@@ -1,5 +1,7 @@
 # Silver Pine State University - Course Registration Portal
 
+For a video demo of this project, please visit: https://www.youtube.com/watch?v=B7QYufMsFO4 
+
 A modern, interactive web-based college class registration system that simulates a real university student portal experience. Students can enter their information, browse a professional course catalog, register for up to 5 classes, and manage their personalized class schedule.
 
 ## Features
